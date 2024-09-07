@@ -3,4 +3,9 @@ bonjour cmt allez vous
 note 1
 note 2
 note 3
+<<<<<<< HEAD
 Je viens de modifier te textellllll
+=======
+
+note 4 de DOGATIENE
+>>>>>>> dd076f055162cfcbaf8a978c621f09ed6f177867
